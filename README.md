@@ -24,12 +24,13 @@
 
 <hr>
 	
-<h5>Get Your SESSION ID 👇</h5> 
+<h3>Get Your SESSION ID 👇</h3> 
+<h5>SESSION_ID Error Fixed ✅</h5>
 	
-<button><tr><a href="https://intelligent-marysa-tharumin-c5a17a2e.koyeb.app/">Pair Code</a></tr></button>
+<button><tr><a href="https://pair-web-public.koyeb.app/">Pair Code</a></tr></button>
 
 <h5>Now get your inbox and copy sessino id</h5>
-<h5>Now past config.js/SESSION_ID "past_copy_text"</h5>
+<h5>Now past session id in (config.js/SESSION_ID "past_copy_text")</h5>
 
 <h5>PAIR CODE is not working...but you can join our supported group and get your creads.json fill & you are uplode in session folder.Now you can deploy Alexa Bot</h5>
 <h3>Supported Group link </h3>
@@ -86,38 +87,21 @@ jobs:
 <hr>
 
 <div align="center">
-<h3>Alexa Team 🐣</h3>
-<table>
-<tbody>
-<tr>
-<td><img src="https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg" width="100" height="100" alt="Sadeesha"></a></td>
-<td><img src="https://i.ibb.co/chgBVvB/vihanga.jpg" width="100" height="100" alt="Vihanga"></a></td>
-<td><img src="https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp" width="100" height="100" alt="Nisitha"></td>
-											</tr>
-<tr>
-<td><h5>Sadeesha</br>(Developer)</h5></td>
-<td><h5> Vihanga</br>(Co-Admin)</h5></td>
-<td><h5>Nisitha<br>Group Supported</h5></td>
-											
-</tr>
+<h3>Alexa Developer Team 👤</h3>
 
-<tr>
-	<td><img src="https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg" width="100" height="100" alt="Maneth"></td>
-	<td><img src="http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp" width="100" height="100" alt="Imalshan"></td>
-</tr>
-<tr>
-	<td><h5>Maneth<br>(Public<br>Supported)</h5></td>
-	<td><h5>Imalshan<br>(Graphics<br>Designer)</h5></td>
-</tr>
-</tr>
-</tbody>
-</table>
+| Sadeesha 👤             | Vihanga 👤            | Nisitha 👤             | Maneth 👤             | Imalshan 👤             |                       
+|----------------------|----------------------|----------------------|----------------------|----------------------|
+| [![Owner](https://i.ibb.co/Lg7CQgB/IMG-20240322-WA0008-01.jpg)](https://github.com/sadiyamin/Alexa/) | [![Vihanga](https://i.ibb.co/chgBVvB/vihanga.jpg)](https://github.com/sadiyamin/Alexa) | [![Nisitha](https://i.ibb.co/xM8gkj9/img-2-1724039784821.webp)](https://github.com/sadiyamin/Alexa/) | [![Maneth](https://i.ibb.co/RNmMpFM/IMG-20240918-WA0013.jpg)](https://github.com/sadiyamin/Alexa/) | [![Imalshan](http://i.ibb.co/HGMmFhY/img-1-1724244686195.webp)](https://github.com/sadiyamin/Alexa)
+
 </div>
+
+<hr>
+
 <div align="center">
     
 | Owner 👤             | Repo 🤖              | Forks 🍽️             | Stars 🌟            | Language 🗣️        | Licence 🪪              
 |----------------------|----------------------|----------------------|---------------------|---------------------|---------------------|
-| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
+| [![Owner](https://img.shields.io/badge/Author-sSadeesha-red.svg)](https://github.com/sadiyamin/Alexa/) | [![Repository](https://img.shields.io/badge/Repo-Alexa-red.svg)](https://github.com/sadiyamin/Alexa) | [![GitHub forks](https://badgen.net/github/forks/sadiyamin/Alexa/)](https://GitHub.com/sadiyamin/Alexa/network/) | [![GitHub stars](https://badgen.net/github/stars/sadiyamin/Alexa)](https://GitHub.com/sadiyamin/Alexa/stargazers/) | ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) | [![GitHub license](https://img.shields.io/github/license/PikaBotz/anya_v2-md.svg)](https://github.com/sadiyamin/Alexa/blob/master/LICENSE) 
 
 | Version 💻              | Last Commit 💫              | Maintained 🤌🏻             |
 |---------------------|---------------------|---------------------|
